@@ -38,7 +38,7 @@ Esta parte será dividida nas seguintes partes:
 
 Primeiro vamos criar a base de dados, para isto vamos no Visual Studio instalado e clicar no menu em "View" > "SQL Server Object Explorer", ao clicar em "SQL Server" haverá um servidor de banco de dados correspondente ao LocalDB Express (algo como "(localdb)(...))") e, se expandir a pasta "Databases" não haverá nenhum banco de dados lá, vamos criar o primeiro. Para isto vamos clicar com o botão direito sobre esta pasta "Databases" e depois em "Add New Database":
 
-[https://github.com/jmrqs/get-started/blob/main/img/sql-server-object-exporer-add-new-database.jpg|alt=SQL Server Object Explorer - Add New Database]
+![SQL Server Object Explorer - Add New Database](https://github.com/jmrqs/get-started/blob/main/img/sql-server-object-exporer-add-new-database.jpg)
 
 Em "Database Name" que irá aparecer informe "db-customers" (vamos padronizar este nome por enquanto para usarmos como referência em todo projeto) e clique em "OK".
 
@@ -119,11 +119,11 @@ Visual Studio 22 - Versão Community + SQL Server Express 2019 LocalDB
 
 Acesse [o link](https://visualstudio.microsoft.com/downloads/) e baixe a versão Community clicando no botão “Free Download”;
 
-[https://github.com/jmrqs/get-started/blob/main/img/visual-studio-community-download-button.jpg|alt=Visual Studio Communitty - Download button]
+![Visual Studio Communitty - Download button](https://github.com/jmrqs/get-started/blob/main/img/visual-studio-community-download-button.jpg)
 
 Abra o instalador (Visual Studio Installer) e clique em “Continue“, após fazer o download, irá aparecer uma tela similar a imagem abaixo, na primeira aba que carrega (Workloads) selecione as seguintes opções:
 
-[https://github.com/jmrqs/get-started/blob/main/img/visual-studio-installer.jpg|alt=Visual Studio Installer]
+![Visual Studio Installer](https://github.com/jmrqs/get-started/blob/main/img/visual-studio-installer.jpg)
 
 - ASP.NET and web development
 - Azure development
@@ -141,7 +141,7 @@ Após a instalação, vai aparecer uma tela para logar, você pode selecionar “Skip 
 
 Em seguida, na caixa de seleção “Development settings” selecione Visual C# e clique em “Start Visual Studio”.
 
-[https://github.com/jmrqs/get-started/blob/main/img/personalize-your-visual-studio-experience.jpg|alt=Visual Studio Communitty - Personalize your Visual Studio Experience]
+![Visual Studio Communitty - Personalize your Visual Studio Experience](https://github.com/jmrqs/get-started/blob/main/img/personalize-your-visual-studio-experience.jpg)
 
 Obs.: Caso tenha esquecido de verificar se o SQL Server Express 2019 LocalDB está instalado, abra o Visual Studio Installer que já está instalado na sua máquina e clique em "Modify" na instalação que foi efetuada.
 
